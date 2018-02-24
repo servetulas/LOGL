@@ -1,0 +1,6 @@
+﻿  glad.c
+  Main.cpp
+c:\users\servet\source\repos\logl\logl\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\servet\source\repos\logl\logl\shader.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\servet\source\repos\logl\logl\shader.h(51): warning C4101: 'success': unreferenced local variable
+  LOGL.vcxproj -> C:\Users\Servet\source\repos\LOGL\Debug\LOGL.exe
